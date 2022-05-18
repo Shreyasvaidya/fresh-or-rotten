@@ -1,0 +1,9 @@
+numpy==1.22.2
+streamlit==1.8.0
+pillow
+keras
+tensorflow-cpu
+opencv-python-headless==4.5.5.64
+click<=8.0.4
+
+
