@@ -3,7 +3,7 @@ from PIL import Image
 from PIL import ImageOps
 import cv2
 import numpy as np
-#from rembg import remove
+from rembg import remove
 
 def machine_classification(img,weights_file ):
     # Load the model
@@ -15,7 +15,7 @@ def machine_classification(img,weights_file ):
     #image sizing
     size = (45, 45)
     image = ImageOps.fit(image, size, Image.ANTIALIAS)
-    #image=remove(image)
+    image=remove(image)
     try:
         image.save("geeks.jpeg")
 	 #turn the image into a numpy array
