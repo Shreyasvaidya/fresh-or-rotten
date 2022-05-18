@@ -3,11 +3,41 @@
 # Mlpart
 Website for classification into fresh or rotten made using Convolutional neural networks in python ,tensorflow and keras 
 
-[](https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py)
-currently the accuracy of model is 91 percent .It can be increased by playing with tensorboard but well,other commitments.
+
+Link - https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py
+
+Developed as a  part of the Engineering Design project website "Annadanam"
+
+Team members(Who also worked on other parts of the website)
+
+1.Samarth Sudhirkumar Bhalerao
+
+2.Vikash Kumar
+
+3.Uppala Giridhar
+
+4.Basanti Meena
+
+5.Saurabh kumar Meena
+
+6.Vaidehi  Bala(was a part of the team in the second semester,was an integral contributor in ideation)
+
 
 **Credits**
+Instructors
+
+1.Dr.Manish Narwaria
+
+2.Dr.Sucharita Dey
+
+
 https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN used For learning how to train a deep learning model
 
 https://www.pluralsight.com/guides/deploying-image-classification-on-the-web-with-streamlit-and-heroku For hosting using streamlit and remotely 
 deploying using heroku
+
+Seniors who provided technical advice
+
+Rohan Singh (https://github.com/rohansingh9001) on where to start and which resources to use
+
+Soham Sonwane (https://github.com/killbotXD) for hosting
