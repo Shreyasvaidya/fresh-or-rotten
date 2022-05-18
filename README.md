@@ -1,7 +1,7 @@
 # fresh-or-rotten
 
 # Mlpart
-Website for classification into fresh or rotten made using Convolutional neural networks in python ,tensorflow and keras 
+Webpage for classification of images of fruits and vegetables into fresh or rotten made using Convolutional neural networks in python ,tensorflow and keras 
 
 
 Link - https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py
