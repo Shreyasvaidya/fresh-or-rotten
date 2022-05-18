@@ -1,14 +1,16 @@
 import keras
+import streamlit as st
 from PIL import Image
 from PIL import ImageOps
 import cv2
 import numpy as np
 from rembg import remove
-
+@st.cache
+def load_model(model):
+	return keras.models.load_model(model)
 def machine_classification(img,weights_file ):
     # Load the model
-    model = keras.models.load_model(weights_file)
-
+    model = load_model(img,weights_file)
     # Create the array of the right shape to feed into the keras model
     data = np.ndarray(shape=(1, 45, 45, 3), dtype=np.float32)
     image = img
