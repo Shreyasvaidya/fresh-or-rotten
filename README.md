@@ -6,6 +6,8 @@ Website for classification into fresh or rotten made using Convolutional neural 
 
 Link - https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py
 
+Code for training saved_model.h5 can be found at https://github.com/Shreyasvaidya/Fresh-rotten_Classifier
+
 Developed as a  part of the Engineering Design project website "Annadanam"
 
 Team members(Who also worked on other parts of the website)
