@@ -26,9 +26,9 @@ Team members(Who also worked on other parts of the website)
 **Credits**
 Instructors
 
-1.Dr.Manish Narwaria
+1.Dr.Manish Narwaria(narwaria@iitj.ac.in)
 
-2.Dr.Sucharita Dey
+2.Dr.Sucharita Dey(sdey@iitj.ac.in)
 
 
 https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN used For learning how to train a deep learning model
