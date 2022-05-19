@@ -42,4 +42,4 @@ Seniors who provided technical advice
 
 Rohan Singh (https://github.com/rohansingh9001) on where to start and which resources to use
 
-Soham Sonwane (https://github.com/killbotXD) for hosting
+Soham Sonawane (https://github.com/killbotXD) for hosting
