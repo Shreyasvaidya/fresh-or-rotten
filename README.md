@@ -22,7 +22,7 @@ Team members(Who also worked on other parts of the website)
 
 5.Saurabh kumar Meena
 
-6.Vaidehi  Bala(was a part of the team in the second semester,was an integral contributor in ideation)
+6.Vaidehi  Bala(was a part of the team in the first semester,was an integral contributor in ideation)
 
 
 **Credits**
