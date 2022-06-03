@@ -9,9 +9,7 @@ st.header("only orange,banana,apple,tomato,bitter guard, capsicum allowed at pre
 st.text("Upload a clear image of fruit or vegetable ")
 from image_classification import machine_classification 
 uploaded_file = st.file_uploader("Enter image", type=["png","jpeg","jpg"])
-#req = urllib.request.urlopen('https://drive.google.com/file/d/1xCW0kigCKAY6tPy1GN37JmbFM-b7HRr3/view?usp=sharing')
-#arr = np.asarray(bytearray(req.read()), dtype=np.uint8)
-#uploaded_file = cv2.imdecode(arr, -1) # 'Load it as it is'
+
 
 if uploaded_file is not None:
     
