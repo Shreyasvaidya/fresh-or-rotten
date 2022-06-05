@@ -32,6 +32,8 @@ Instructors
 
 2.Dr.Sucharita Dey(sdey@iitj.ac.in)
 
+Dataset taken from https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables
+
 
 https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN used For learning how to train a deep learning model
 
