@@ -1,7 +1,7 @@
 # fresh-or-rotten
 
 # Mlpart
-Interactive webapp for classification of images of fruits and vegetables into fresh or rotten made using Convolutional neural networks in python ,tensorflow and keras 
+Interactive webapp for classification of images of fruits and vegetables into fresh or rotten made using Convolutional neural networks in python ,tensorflow and keras .Rembg (@rembg,https://github.com/danielgatis/rembg) used for removing the image background .Hosted using streamlit
 
 
 Link - https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py
