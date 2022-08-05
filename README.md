@@ -9,7 +9,7 @@ Link - https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py
 
 Working(in case some dependency breaks again)
 
-![fresh apple](https://drive.google.com/file/d/1yaAA8I7gBU3YZBi2eWA-t64achAixHvS/view?usp=sharing)
+![fresh appl(https://drive.google.com/uc?export=view&id=1yaAA8I7gBU3YZBi2eWA-t64achAixHvS)
 
 Code for training saved_model.h5 can be found at https://github.com/Shreyasvaidya/Fresh-rotten_Classifier
 
