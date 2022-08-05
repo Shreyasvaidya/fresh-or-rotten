@@ -8,7 +8,7 @@ from rembg import remove
 
 def machine_classification(img,weights_file ):
     # Load the model
-    @st.experimental_singleton
+    @st.cache
     def load_model_catche(model):
         return keras.models.load_model(model)
     model = load_model_catche(weights_file)
