@@ -2,7 +2,7 @@ numpy
 streamlit
 pillow
 keras
-tensorflow
+tensorflow -cpu
 
 opencv-python-headless
 
