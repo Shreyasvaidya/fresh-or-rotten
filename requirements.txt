@@ -2,10 +2,10 @@ numpy
 streamlit
 pillow
 keras
-tensorflow-cpu<2.9.1
+tensorflow-cp
 
 opencv-python-headless==4.5.5.64
-protobuf<3.20
+click == 7.1.2
 rembg
 
 
