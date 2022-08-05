@@ -7,4 +7,5 @@ opencv-python-headless==4.5.5.64
 click<=8.0.4
 rembg
 grpcio-tools>=1.44.0
+pip == 22.2.2
 
