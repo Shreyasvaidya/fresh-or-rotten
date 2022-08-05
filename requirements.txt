@@ -2,7 +2,7 @@ numpy
 streamlit
 pillow
 keras
-tensorflow-cp
+tensorflow-cpu
 
 opencv-python-headless==4.5.5.64
 click == 7.1.2
