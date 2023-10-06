@@ -17,7 +17,7 @@ def machine_classification(img,weights_file ):
     image = img
     #image sizing
     size = (45, 45)
-    image = ImageOps.fit(image, size, PIL.Image.LANCZOS)
+    image = ImageOps.fit(image, size,Image.LANCZOS)
     image=remove(image)
     try:
         image.save("geeks.jpeg")
